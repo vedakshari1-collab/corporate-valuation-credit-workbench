@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.pip-tmp/
+.streamlit/secrets.toml
+*.log
+outputs/*_investment_memo.md
+!outputs/sample_report.md
+!outputs/screenshots/
+!outputs/screenshots/README.md

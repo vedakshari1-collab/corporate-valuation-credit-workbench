@@ -1,0 +1,5 @@
+peer_group,ticker,company_name,sector
+Mega-cap public companies,AAPL,Apple Inc.,Technology Hardware
+Mega-cap public companies,MSFT,Microsoft Corporation,Software and Cloud
+Mega-cap public companies,AMZN,Amazon.com Inc.,Consumer Internet and Cloud
+Mega-cap public companies,JPM,JPMorgan Chase & Co.,Financial Services
